@@ -1,0 +1,21 @@
+body{
+    background-color: violet;
+}
+
+
+h1{
+    color: cornflowerblue;
+    font-style:cursive;
+    background-color: yellow;
+    width: 100%;
+    margin-top: 15;
+}
+
+
+canvas{
+    background-color: white;
+    box-shadow: 5px,5px,18px mediumvioletred;
+    border-radius: 10px;
+    border: 2px dashed grey;
+    margin-top:130px;
+}
